@@ -1,2 +1,3 @@
 # Magic-8-Ball
-a random number generator from 0-9
+//a random number generator from 0-9
+//using C++
